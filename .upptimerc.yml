@@ -14,8 +14,7 @@ sites:
 
 status-website:
   cname: uptime.adityacprtm.dev
-  # theme: dark
-  themeUrl: https://uptime.adityacprtm.dev/mydark.css
+  theme: dark
   logoUrl: https://res.cloudinary.com/adityacprtm/image/upload/v1634915700/adityacprtm_x_upptime_114ad9ba02.png
   name: Uptime | Adityacprtm
   favicon: https://adityacprtm.dev/img/icons/favicon-32x32.png
