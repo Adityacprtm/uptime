@@ -4,19 +4,19 @@
     "url": "https://adityacprtm.dev",
     "icon": "https://adityacprtm.dev/img/icons/favicon-32x32.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 469,
-    "timeWeek": 228,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 168,
+    "timeDay": 348,
+    "timeWeek": 214,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {
-      "2021-11-02": 0
+      "2021-11-02": 21
     }
   },
   {
