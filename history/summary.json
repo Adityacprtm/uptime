@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 154,
-    "timeDay": 129,
-    "timeWeek": 131,
+    "timeDay": 144,
+    "timeWeek": 134,
     "timeMonth": 151,
     "timeYear": 154,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
   },
   {
     "name": "API",
-    "url": "https://apiv2.adityacprtm.dev/status",
+    "url": "https://api.adityacprtm.dev/status",
     "icon": "https://adityacprtm.dev/img/icons/favicon-32x32.png",
     "slug": "api",
     "status": "up",
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 900,
-    "timeWeek": 825,
-    "timeMonth": 364,
-    "timeYear": 239,
+    "time": 249,
+    "timeDay": 958,
+    "timeWeek": 844,
+    "timeMonth": 383,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   }
 ]
