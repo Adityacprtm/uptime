@@ -26,9 +26,9 @@
     "url": "https://api.adityacprtm.dev/healthz",
     "icon": "https://adityacprtm.dev/img/icons/favicon-32x32.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -38,6 +38,7 @@
     "timeMonth": 145,
     "timeYear": 328,
     "dailyMinutesDown": {
+      "2022-02-24": 0,
       "2021-12-28": 19
     }
   }
