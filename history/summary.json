@@ -4,7 +4,7 @@
     "url": "https://adityacprtm.dev",
     "icon": "https://adityacprtm.dev/img/icons/favicon-32x32.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 159,
     "timeYear": 150,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-03-02": 24,
       "2022-02-28": 17,
       "2021-12-20": 17,
