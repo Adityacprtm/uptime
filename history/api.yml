@@ -1,7 +1,7 @@
 url: https://api.adityacprtm.dev/healthz
-status: up
-code: 200
-responseTime: 239
-lastUpdated: 2022-06-29T23:16:19.666Z
+status: down
+code: 403
+responseTime: 133
+lastUpdated: 2022-06-30T03:49:54.437Z
 startTime: Wed Oct 13 2021 13:21:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
