@@ -7,10 +7,10 @@ sites:
     url: https://adityacprtm.dev
     icon: https://adityacprtm.dev/img/icons/favicon-32x32.png
     maxResponseTime: 5000
-  - name: API
-    url: https://api.adityacprtm.dev/api/healthz
-    icon: https://adityacprtm.dev/img/icons/favicon-32x32.png
-    maxResponseTime: 5000
+#  - name: API
+#    url: https://api.adityacprtm.dev/api/healthz
+#    icon: https://adityacprtm.dev/img/icons/favicon-32x32.png
+#    maxResponseTime: 5000
 
 status-website:
   cname: uptime.adityacprtm.dev
