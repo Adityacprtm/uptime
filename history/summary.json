@@ -5,16 +5,16 @@
     "icon": "https://adityacprtm.dev/img/icons/favicon-32x32.png",
     "slug": "website",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 145,
-    "timeWeek": 242,
+    "timeDay": 206,
+    "timeWeek": 244,
     "timeMonth": 238,
-    "timeYear": 173,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   }
 ]
