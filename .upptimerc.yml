@@ -7,10 +7,10 @@ sites:
     url: https://adityacprtm.dev
     icon: https://adityacprtm.dev/img/icons/favicon-32x32.png
     maxResponseTime: 5000
-#  - name: API
-#    url: https://api.adityacprtm.dev/api/healthz
-#    icon: https://adityacprtm.dev/img/icons/favicon-32x32.png
-#    maxResponseTime: 5000
+  - name: Website Globalping
+    url: https://adityacprtm.dev
+    type: globalping
+    location: World
 
 status-website:
   cname: uptime.adityacprtm.dev
@@ -23,3 +23,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+assignees:
+  - Adityacprtm
