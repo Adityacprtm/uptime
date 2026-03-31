@@ -5,18 +5,19 @@
     "icon": "https://adityacprtm.dev/img/icons/favicon-32x32.png",
     "slug": "website",
     "status": "down",
-    "uptime": "97.44%",
+    "uptime": "97.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "88.68%",
-    "time": 454,
-    "timeDay": 90,
-    "timeWeek": 104,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "88.42%",
+    "time": 453,
+    "timeDay": 127,
+    "timeWeek": 108,
     "timeMonth": 120,
-    "timeYear": 521,
+    "timeYear": 519,
     "dailyMinutesDown": {
-      "2026-03-30": 208,
+      "2026-03-31": 148,
+      "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -63,6 +64,26 @@
       "2026-01-11": 88,
       "2025-11-18": 157,
       "2025-10-20": 80
+    }
+  },
+  {
+    "name": "Website Globalping",
+    "url": "https://adityacprtm.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/adityacprtm.dev.ico",
+    "slug": "website-globalping",
+    "status": "down",
+    "uptime": "8.84%",
+    "uptimeDay": "8.84%",
+    "uptimeWeek": "8.84%",
+    "uptimeMonth": "8.84%",
+    "uptimeYear": "8.84%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-03-31": 0
     }
   }
 ]
