@@ -4,7 +4,7 @@ user-agent: Adityacprtm
 
 sites:
   - name: Website
-    url: https://adityacprtm.dev
+    url: https://adityacprtm.dev/?q=healthcheck
     icon: https://adityacprtm.dev/img/icons/favicon-32x32.png
     maxResponseTime: 5000
   # - name: Website Globalping
