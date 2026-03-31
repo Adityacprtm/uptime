@@ -7,6 +7,7 @@ sites:
     url: https://adityacprtm.dev/?q=healthcheck
     icon: https://adityacprtm.dev/img/icons/favicon-32x32.png
     maxResponseTime: 5000
+    ipv6: true
 
 status-website:
   cname: uptime.adityacprtm.dev
