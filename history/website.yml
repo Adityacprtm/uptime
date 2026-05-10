@@ -1,7 +1,7 @@
 url: https://adityacprtm.dev/?q=healthcheck
-status: down
-code: 530
-responseTime: 26
-lastUpdated: 2026-05-10T07:30:06.257Z
+status: up
+code: 200
+responseTime: 588
+lastUpdated: 2026-05-10T09:13:46.322Z
 startTime: 2021-10-13T13:21:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
